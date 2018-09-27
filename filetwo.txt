@@ -1,4 +1,8 @@
 new game.
 it's a old one now.
+<<<<<<< HEAD
 i'm not interesed to play a old game.
 let's paly a new game.
+=======
+it's easy to play old game.
+>>>>>>> 497e8a0406b451051db45ebcdb4dfef8deef06c0
